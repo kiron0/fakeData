@@ -144,17 +144,8 @@
         "rate": 4.6
     },
     {
-        "image": "https://raw.githubusercontent.com/kiron0/fakeData/main/images/ed.jpg",
-        "id": 17,
-        "course_name": "Web Development",
-        "duration": "9 Month",
-        "price": 450,
-        "instructor": "Dev Ed",
-        "rate": 4.2
-    },
-    {
         "image": "https://raw.githubusercontent.com/kiron0/fakeData/main/images/daniel.jpg",
-        "id": 18,
+        "id": 17,
         "course_name": "Tailwind",
         "duration": "8 Month",
         "price": 700,
