@@ -22,7 +22,7 @@
         "id": 3,
         "course_name": "CSE Fundamentals",
         "duration": "12 month",
-        "price": 100,
+        "price": 600,
         "instructor": "pHero TEAM",
         "rate": 4.9
     },
@@ -146,10 +146,19 @@
     {
         "image": "https://raw.githubusercontent.com/kiron0/fakeData/main/images/daniel.jpg",
         "id": 17,
-        "course_name": "Tailwind",
+        "course_name": "Tailwind Developer",
         "duration": "8 Month",
         "price": 700,
         "instructor": "Daniel Maloney",
         "rate": 4.8
+    },
+    {
+        "image": "https://raw.githubusercontent.com/kiron0/fakeData/main/images/ryan.jpg",
+        "id": 18,
+        "course_name": "Software Engineer",
+        "duration": "12 Month",
+        "price": 1000,
+        "instructor": "Daniel Maloney",
+        "rate": 4.7
     }
 ]
