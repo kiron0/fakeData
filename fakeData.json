@@ -158,7 +158,16 @@
         "course_name": "Software Engineer",
         "duration": "12 Month",
         "price": 1000,
-        "instructor": "Daniel Maloney",
+        "instructor": "Ryan Dahl",
         "rate": 4.7
+    },
+    {
+        "image": "https://raw.githubusercontent.com/kiron0/fakeData/main/images/isaac.jpeg",
+        "id": 19,
+        "course_name": "NPM Inc.",
+        "duration": "12 Month",
+        "price": 900,
+        "instructor": "Isaac Z. Schlueter",
+        "rate": 4.9
     }
 ]
