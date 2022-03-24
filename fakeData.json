@@ -21,7 +21,7 @@
         "image": "https://raw.githubusercontent.com/kiron0/fakeData/main/images/jhankar.jpg",
         "id": 3,
         "course_name": "CSE Fundamentals",
-        "duration": "1 Year",
+        "duration": "12 month",
         "price": 100,
         "instructor": "pHero TEAM",
         "rate": 4.9
@@ -130,8 +130,35 @@
         "id": 15,
         "course_name": "Web Development",
         "duration": "9 Month",
-        "price": 400,
+        "price": 500,
         "instructor": "Vinod Bahadur Thapa",
         "rate": 4.3
+    },
+    {
+        "image": "https://raw.githubusercontent.com/kiron0/fakeData/main/images/ed.jpg",
+        "id": 16,
+        "course_name": "Web Development",
+        "duration": "12 Month",
+        "price": 400,
+        "instructor": "Dev Ed",
+        "rate": 4.6
+    },
+    {
+        "image": "https://raw.githubusercontent.com/kiron0/fakeData/main/images/ed.jpg",
+        "id": 17,
+        "course_name": "Web Development",
+        "duration": "9 Month",
+        "price": 450,
+        "instructor": "Dev Ed",
+        "rate": 4.2
+    },
+    {
+        "image": "https://raw.githubusercontent.com/kiron0/fakeData/main/images/daniel.jpg",
+        "id": 18,
+        "course_name": "Tailwind",
+        "duration": "8 Month",
+        "price": 700,
+        "instructor": "Daniel Maloney",
+        "rate": 4.8
     }
 ]
