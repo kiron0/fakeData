@@ -1,6 +1,6 @@
 [
     {
-        "image": "https://i.ibb.co/1mhrjHp/jhankarmahbub.jpg",
+        "image": "https://raw.githubusercontent.com/kiron0/fakeData/main/images/jhankarmahbub.jpg",
         "id": 1,
         "course_name": "MERN Stack Development",
         "duration": "6 Month",
@@ -9,7 +9,7 @@
         "rate": 4.8
     },
     {
-        "image": "https://i.ibb.co/232NY1L/sumit.jpg",
+        "image": "https://raw.githubusercontent.com/kiron0/fakeData/main/images/sumit.jpg",
         "id": 2,
         "course_name": "Full Stack Development",
         "duration": "8 Month",
@@ -18,7 +18,7 @@
         "rate": 4.7
     },
     {
-        "image": "https://i.ibb.co/c3bhnVZ/jhankar.jpg",
+        "image": "https://raw.githubusercontent.com/kiron0/fakeData/main/images/jhankar.jpg",
         "id": 3,
         "course_name": "CSE Fundamentals",
         "duration": "1 Year",
@@ -27,7 +27,7 @@
         "rate": 4.9
     },
     {
-        "image": "https://i.ibb.co/1bxjLTN/hasin.jpg",
+        "image": "https://raw.githubusercontent.com/kiron0/fakeData/main/images/hasin.jpg",
         "id": 4,
         "course_name": "JavaScript for Beginning",
         "duration": "2.5 Month",
@@ -36,7 +36,7 @@
         "rate": 4.6
     },
     {
-        "image": "https://i.ibb.co/1z23YXT/harry.jpg",
+        "image": "https://raw.githubusercontent.com/kiron0/fakeData/main/images/harry.jpg",
         "id": 5,
         "course_name": "Front End Development",
         "duration": "6 Month",
@@ -45,7 +45,7 @@
         "rate": 4.4
     },
     {
-        "image": "https://i.ibb.co/qj3yPp1/moshiur.jpg",
+        "image": "https://raw.githubusercontent.com/kiron0/fakeData/main/images/moshiur.jpg",
         "id": 6,
         "course_name": "WordPress Development",
         "duration": "6 Month",
@@ -54,7 +54,7 @@
         "rate": 4.8
     },
     {
-        "image": "https://i.ibb.co/6RYKBPr/anisul.jpg",
+        "image": "https://raw.githubusercontent.com/kiron0/fakeData/main/images/anisul.jpg",
         "id": 7,
         "course_name": "Full Stack Development",
         "duration": "8 Month",
@@ -63,7 +63,7 @@
         "rate": 4.9
     },
     {
-        "image": "https://i.ibb.co/hgw7B60/jhankar1.jpg",
+        "image": "https://raw.githubusercontent.com/kiron0/fakeData/main/images/jhankar1.jpg",
         "id": 8,
         "course_name": "Full Stack Development",
         "duration": "8 Month",
@@ -72,7 +72,7 @@
         "rate": 4.8
     },
     {
-        "image": "https://i.ibb.co/0s7Vkn7/anisur.jpg",
+        "image": "https://raw.githubusercontent.com/kiron0/fakeData/main/images/anisur.jpg",
         "id": 9,
         "course_name": "Graphics Design",
         "duration": "4 Month",
@@ -81,7 +81,7 @@
         "rate": 4.7
     },
     {
-        "image": "https://i.ibb.co/jwjRHYc/sujon.png",
+        "image": "https://raw.githubusercontent.com/kiron0/fakeData/main/images/sujon.png",
         "id": 10,
         "course_name": "WordPress Development",
         "duration": "4 Month",
@@ -90,7 +90,7 @@
         "rate": 4.5
     },
     {
-        "image": "https://i.ibb.co/q1cNnZD/cyber71.jpg",
+        "image": "https://raw.githubusercontent.com/kiron0/fakeData/main/images/cyber71.jpg",
         "id": 11,
         "course_name": "Ethical Hacking",
         "duration": "8 Month",
@@ -99,7 +99,7 @@
         "rate": 4.1
     },
     {
-        "image": "https://i.ibb.co/HzmwK0t/shohagh.jpg",
+        "image": "https://raw.githubusercontent.com/kiron0/fakeData/main/images/shohagh.jpg",
         "id": 12,
         "course_name": "T-Shirt Design",
         "duration": "3 Month",
@@ -108,7 +108,7 @@
         "rate": 4.3
     },
     {
-        "image": "https://i.ibb.co/HzmwK0t/shohagh.jpg",
+        "image": "https://raw.githubusercontent.com/kiron0/fakeData/main/images/mosh.jpg",
         "id": 13,
         "course_name": "Software Development",
         "duration": "6 Month",
@@ -117,7 +117,7 @@
         "rate": 4.7
     },
     {
-        "image": "https://i.ibb.co/HzmwK0t/shohagh.jpg",
+        "image": "https://raw.githubusercontent.com/kiron0/fakeData/main/images/angela.jpg",
         "id": 14,
         "course_name": "Application Development",
         "duration": "7 Month",
@@ -126,7 +126,7 @@
         "rate": 4.9
     },
     {
-        "image": "https://i.ibb.co/HzmwK0t/shohagh.jpg",
+        "image": "https://raw.githubusercontent.com/kiron0/fakeData/main/images/thapa.jpg",
         "id": 15,
         "course_name": "Web Development",
         "duration": "9 Month",
