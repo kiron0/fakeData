@@ -156,7 +156,7 @@
         "image": "https://raw.githubusercontent.com/kiron0/fakeData/main/images/ryan.jpg",
         "id": 18,
         "course_name": "Software Engineer",
-        "duration": "12 Month",
+        "duration": "10 Month",
         "price": 1000,
         "instructor": "Ryan Dahl",
         "rate": 4.7
@@ -168,6 +168,51 @@
         "duration": "12 Month",
         "price": 900,
         "instructor": "Isaac Z. Schlueter",
+        "rate": 4.9
+    },
+    {
+        "image": "https://raw.githubusercontent.com/kiron0/fakeData/main/images/sara.jpg",
+        "id": 20,
+        "course_name": "Frontend UI Development",
+        "duration": "11 Month",
+        "price": 950,
+        "instructor": "Sara Soueidan",
+        "rate": 4.7
+    },
+    {
+        "image": "https://raw.githubusercontent.com/kiron0/fakeData/main/images/karen.jpg",
+        "id": 21,
+        "course_name": "Frontend UX Development",
+        "duration": "12 Month",
+        "price": 1000,
+        "instructor": "Karen McGrane",
+        "rate": 4.8
+    },
+    {
+        "image": "https://raw.githubusercontent.com/kiron0/fakeData/main/images/rachel.jpg",
+        "id": 22,
+        "course_name": "Web Development",
+        "duration": "14 Month",
+        "price": 950,
+        "instructor": "Rachel Andrew",
+        "rate": 4.9
+    },
+    {
+        "image": "https://raw.githubusercontent.com/kiron0/fakeData/main/images/simon.jpg",
+        "id": 23,
+        "course_name": "Web Design",
+        "duration": "9 Month",
+        "price": 700,
+        "instructor": "Simon Collison",
+        "rate": 4.7
+    },
+    {
+        "image": "https://raw.githubusercontent.com/kiron0/fakeData/main/images/sarah.jpg",
+        "id": 24,
+        "course_name": "UI Design",
+        "duration": "12 Month",
+        "price": 800,
+        "instructor": "Sarah Parmenter",
         "rate": 4.9
     }
 ]
